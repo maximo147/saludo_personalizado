@@ -1,7 +1,6 @@
 # Notas 
 
-Programa donde ingresas tus datos y crea un mensaje personalizado .txt.
-
+Programa donde ingresas tus datos y el sistema crea un mensaje personalizado .txt.
 
 ```
 Opciones:
